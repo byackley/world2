@@ -1,0 +1,4 @@
+# Ignore Nodejs things
+node_modules/
+npm-debug.log
+
